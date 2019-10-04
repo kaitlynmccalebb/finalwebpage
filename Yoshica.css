@@ -45,6 +45,7 @@
 		height: 80%;
 		background-color: #5d5e60;
 	}
+	/* Empty space */
 	.gap {
 		width: 100%;
 		height: 20%;
@@ -60,11 +61,6 @@
 	width: 50%;
 	display: flex;
 	text-align: center;
-	}
-	.center-child {
-	display: flex;
-	align-items: center;
-	justify-content: center;
 	}
 	.limit-img {
 	height: 100%;
@@ -96,6 +92,7 @@
 		width: 100%;
 		height:15%;
 	}
+	/* Empty Space */
 	.space {
 		width: 100%;
 		height: 10%;
@@ -117,6 +114,7 @@
 .desktop {
 	display: block;
 }
+/* Causes the text to decrease as the width does */
 @media only screen and (max-width: 1200px) {
 	 p {
 		font-size: 15px;
@@ -125,7 +123,7 @@
 		border-top: 0px;
 	 }
 }
-
+/* Changes the layout of the webpage */ 
 @media only screen and (max-width:900px){
 	body{
 	display: block;
