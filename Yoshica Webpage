@@ -1,0 +1,20 @@
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Yoshica</title>
+		<link href="images/favicon.ico" rel="icon" type="image/x-icon" />
+		<link rel="stylesheet" href="Yoshica.css">
+	</head>
+	
+	<body> 
+		
+		<div class="wide-col">
+			 <h1>YASHICA-635</h1>
+		</div>
+
+	</body>
+	
+</html>
+	
